@@ -146,3 +146,8 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+/* media queries */
+@media (min-width: 700px){
+  
+}
