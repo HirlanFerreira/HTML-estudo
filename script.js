@@ -12,12 +12,12 @@ function toggleMode() {
 
    // se tiver light mode, adicionar a imagem light
 
-  imag.setAttribute('src','./assets/avatar-light')
+  img.setAttribute('src','./assets/avatar-light.png')
  } else {
 
   //  se tiver sem light mode, manter a imagem normal
 
-  imag.setAttribute('src','./assets/avatar')
+  img.setAttribute('src','./assets/avatar.png')
  }
 
 
